@@ -1,0 +1,1 @@
+My easiest way to work with git repository
